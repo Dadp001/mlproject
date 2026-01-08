@@ -3,8 +3,12 @@ pandas
 python-dotenv
 mysql-connector-python
 pymysql
+matplotlib
+Flask
+dill
+mlflow==2.2.2
 scikit-learn
 seaborn
 catboost
 xgboost
-#-e .
+-e .
